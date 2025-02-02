@@ -20,7 +20,7 @@ locale: en-AU
 title: "My Awesome Site"
 description: "It really is the best."
 baseurl: # the subpath of your site, e.g. "/blog"
-url: coloss.au # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url: "https://coloss.au" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 logo: # path of site logo, e.g. "/images/logo.png"
 date_format: "%B %-d, %Y"
 read_time: # reading time estimates, e.g. true
@@ -78,6 +78,7 @@ plugins:
   - jekyll-sitemap
   - jekyll-feed
   - jekyll-paginate
+  - jekyll-remote-theme
 
 # Front Matter Defaults
 defaults:
