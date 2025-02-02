@@ -5,7 +5,10 @@ show_excerpts: true
 entries_layout: list
 ---
 
-The 2024 colony loss survey is being undertaken by a consortium of researchers and Australian Honey Bee Industry representatives. Your participation makes it possible to identify trends in Australian beekeeping and to understand better the impact Varroa is having. Bringing together the experience of beekeepers, this survey will also show what countermeasures are working across Australia. This **survey covers 2024 and takes about 7 minutes for small operators and ~15 minutes for commercial beekeepers**. The questions are easy to answer but may require you to look up some of your records.
+The **2024 Honey Bee Colony Loss Survey** is led by a consortium of researchers and representatives from the Australian Honey Bee Industry. Your participation is crucial in identifying beekeeping trends and assessing the impact of Varroa. Whether or not your hives have been affected, your insights will help measure Varroa’s effects in established areas.  
+
+This **takes approximately 7 minutes for small operators and 15 minutes for commercial beekeepers**. The questions are straightforward, though you may need to refer to your records. Your input is invaluable in shaping a clearer picture of beekeeping challenges and resilience.  
+
 
 <p style="text-align:center;">
   <a href="https://anu.au1.qualtrics.com/jfe/form/SV_555DTLrfT2Tk2aO" style="
