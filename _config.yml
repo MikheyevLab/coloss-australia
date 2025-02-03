@@ -17,6 +17,7 @@
 remote_theme: mmistakes/so-simple-theme
 skin: default
 locale: en-AU
+google_analytics: "G-D5S6242HH7"
 title: "Australian honey bee colony loss (COLOSS) survey"
 description: "The Australian honey bee colony loss (COLOSS) survey is a national survey of beekeepers to monitor honey bee colony losses and management practices."
 baseurl: # the subpath of your site, e.g. "/blog"
