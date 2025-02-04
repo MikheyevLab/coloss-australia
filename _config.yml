@@ -20,7 +20,7 @@ locale: en-AU
 title: "Australian honey bee colony loss (COLOSS) survey"
 description: "The Australian honey bee colony loss (COLOSS) survey is a national survey of beekeepers to monitor honey bee colony losses and management practices."
 baseurl: # the subpath of your site, e.g. "/blog"
-url: "https://coloss.au" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url: "https://www.coloss.au" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 logo: "img/logo.png" # path of site logo, e.g. "/images/logo.png"
 image: "img/logo.png" # path of default share image, e.g. "/images/logo.png"
 date_format: "%Y, %B %-d"
