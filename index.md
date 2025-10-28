@@ -9,6 +9,8 @@ The **Honey Bee Colony Loss Survey** is led by a consortium of researchers and r
 
 The survey **takes approximately 7 minutes for small operators and 15 minutes for commercial beekeepers** to fill out. The questions are straightforward, though you may need to refer to your records. Your input is invaluable in shaping a clearer picture of beekeeping challenges and resilience. 
 
+**2024 Survey Results Available**: Australia's inaugural colony loss survey results are now published, showing a national loss rate of 1.55% - one of the world's lowest. However, the data reveals significant regional differences, particularly in NSW where Varroa has established. [View the full 2024 results](/2024-survey-results/).
+
 If you have any questions or comments, feel free to [contact us](mailto:coloss@anu.edu.au).
 
 
