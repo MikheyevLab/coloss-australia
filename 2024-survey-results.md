@@ -10,7 +10,7 @@ In New South Wales for **amateur beekeepers Varroa was the single highest cause 
 
 A major finding was the significant economic burden of the mite, with NSW beekeepers spending an average of $21.00 and 23.5 minutes per hive on Varroa management. Regarding treatments, beekeepers perceived synthetic miticides like Bayvarol and Apivar as the most effective with the fewest adverse effects. However, it should be noted that while Varroa in Australia is currently sensitive to synthetic miticides, resistance evolves quickly. Careful adherence to miticide application protocols and immediate adoption of Integrated Pest Management to prevent rapid resistance is needed.
 
-The complete report is available on the [AgriFutures website](https://agrifutures.com.au/wp-content/uploads/2025/10/PRO-019311-COLOSS-2024-Digital.pdf).
+The complete report is available on the [AgriFutures website](https://agrifutures.com.au/wp-content/uploads/2025/10/PRO-019311-2024-COLOSS-Survery-Final-Report.pdf).
 
 ---
 
