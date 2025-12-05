@@ -4,9 +4,9 @@ title: 2025 Survey
 permalink: /2025-survey/
 ---
 
-The 2025 COLOSS survey is be open from **September 1st to November 1st, 2025**.
+The 2025 COLOSS survey was open from **September 1st to November 1st, 2025** and is now closed. Thank you to all beekeepers who participated! Your input is invaluable in helping us monitor the health. Results from the 2025 survey will be published in mid-December 2026.
 
-
+<!-- 
 <p style="text-align:center;">
   <a href="https://anu.au1.qualtrics.com/jfe/form/SV_39mXIiyf87XnUcC" style="
     display: inline-block;
@@ -20,4 +20,4 @@ The 2025 COLOSS survey is be open from **September 1st to November 1st, 2025**.
   ">
     Take the Survey
   </a>
-</p>
+</p> -->
