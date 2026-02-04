@@ -4,10 +4,10 @@ title: 2024 Survey Results
 permalink: /2024-survey-results/
 ---
 
-Results from Australia's inaugural 2024 National Colony Loss Survey will be re-released shortly after minor revisions. Please check back soon for the updated report and findings.
+Results from the inaugural Australian Honeybee Colony Loss Survey will be re-released shortly after minor revisions. Please check back soon for the updated report and findings.
 
 <!-- 
-Australia's inaugural 2024 National Colony Loss Survey, covering the 2023-24 season, based on 997 responses from beekeepers managing 121,802 colonies found a national overall colony loss rate of 1.55%, one of the world's lowest. This figure establishes a "fragile baseline" for the Varroa-free majority of the country. This low national average, however, masks a stark divide revealed in New South Wales, where Varroa was officially established during the time of the survey. 
+The inaugural Australian Honebee Colony Loss Survey, covering the 2023-24 season, based on 997 responses from beekeepers managing 121,802 colonies found a national overall colony loss rate of 1.55%, one of the world's lowest. This figure establishes a "fragile baseline" for the Varroa-free majority of the country. This low national average, however, masks a stark divide revealed in New South Wales, where Varroa was officially established during the time of the survey. 
 
 In New South Wales for **amateur beekeepers Varroa was the single highest cause of cool-season losses (5.60%)**. For **commercial beekeepers (more than 50 hives), it was the second-highest cause of loss in both the cool season (0.82%) and warm season (1.35%)**.  
 
