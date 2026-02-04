@@ -13,7 +13,7 @@ The survey **takes approximately 7 minutes for small operators and 15 minutes fo
 
 If you have any questions or comments, feel free to [contact us](mailto:coloss@anu.edu.au). -->
 
-The 2025 COLOSS survey will be released in mid-December 2025. Please check back then to view the results and findings.
+The 2025 Australian Colony Loss survey will be released in early 2026. Please check back then to view the results and findings.
 
 <!-- 
 <p style="text-align:center;">
